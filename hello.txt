@@ -8,4 +8,4 @@ hello java git
 hello java git
 hello java git
 hello java git
-hello java git
+hello java git in hot-fix test
